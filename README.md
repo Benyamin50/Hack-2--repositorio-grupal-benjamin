@@ -12,3 +12,5 @@ https://github.com/Benyamin50/hg-2-echo
 https://github.com/Benyamin50/hg_2_bravo
 # Repositorio de Victor: Delta  (fork)
 https://github.com/Benyamin50/hg-2-delta
+
+#Profe no estan del todo completos los fork, es mas que todo por el tiempo de cada uno de los integrantes
